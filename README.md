@@ -16,7 +16,7 @@ This repository contains the analysis and modeling of an eCommerce transactions 
 - `Soham_Gupta_EDA.ipynb`: Jupyter Notebook for EDA.
 - `Soham_Gupta_Lookalike.ipynb`: Jupyter Notebook for Lookalike Model.
 - `Soham_Gupta_Clustering.ipynb`: Jupyter Notebook for Customer Segmentation.
-- `Lookalike.csv`: Output of the Lookalike Model.
+- `Soham_Gupta_Lookalike.csv`: Output of the Lookalike Model.
 - `Soham_Gupta_EDA.pdf`: PDF report of EDA insights.
 - `Soham_Gupta_Clustering.pdf`: PDF report of clustering results.
 
